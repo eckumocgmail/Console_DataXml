@@ -1,0 +1,10 @@
+D:\NetProjects\Console3_DataXml\obj\Debug\net5.0\Console3_DataXml.csproj.AssemblyReference.cache
+D:\NetProjects\Console3_DataXml\obj\Debug\net5.0\Console3_DataXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetProjects\Console3_DataXml\obj\Debug\net5.0\Console3_DataXml.AssemblyInfoInputs.cache
+D:\NetProjects\Console3_DataXml\obj\Debug\net5.0\Console3_DataXml.AssemblyInfo.cs
+D:\NetProjects\Console3_DataXml\obj\Debug\net5.0\Console3_DataXml.csproj.CoreCompileInputs.cache
+D:\Projects\Console_DataXml\obj\Debug\net5.0\Console3_DataXml.csproj.AssemblyReference.cache
+D:\Projects\Console_DataXml\obj\Debug\net5.0\Console3_DataXml.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console_DataXml\obj\Debug\net5.0\Console3_DataXml.AssemblyInfoInputs.cache
+D:\Projects\Console_DataXml\obj\Debug\net5.0\Console3_DataXml.AssemblyInfo.cs
+D:\Projects\Console_DataXml\obj\Debug\net5.0\Console3_DataXml.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\bin\Release\net5.0\Console7_Xml.exe
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\bin\Release\net5.0\Console7_Xml.deps.json
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\bin\Release\net5.0\Console7_Xml.runtimeconfig.json
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\bin\Release\net5.0\Console7_Xml.runtimeconfig.dev.json
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\bin\Release\net5.0\Console7_Xml.dll
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\bin\Release\net5.0\ref\Console7_Xml.dll
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\bin\Release\net5.0\Console7_Xml.pdb
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\obj\Release\net5.0\Console7_Xml.csproj.AssemblyReference.cache
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\obj\Release\net5.0\Console7_Xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\obj\Release\net5.0\Console7_Xml.AssemblyInfoInputs.cache
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\obj\Release\net5.0\Console7_Xml.AssemblyInfo.cs
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\obj\Release\net5.0\Console7_Xml.csproj.CoreCompileInputs.cache
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\obj\Release\net5.0\Console7_Xml.dll
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\obj\Release\net5.0\ref\Console7_Xml.dll
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\obj\Release\net5.0\Console7_Xml.pdb
+C:\ftp\NetProjects\Mbd_Feature_Excel\Console7_Xml\obj\Release\net5.0\Console7_Xml.genruntimeconfig.cache
