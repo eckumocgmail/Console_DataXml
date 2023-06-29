@@ -1,4 +1,4 @@
-﻿namespace Xml.ServiceDescriptor
+﻿namespace Console_DataXml.ServiceDescriptor
 {
     public class HyperText
     {

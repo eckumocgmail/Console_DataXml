@@ -1,1 +1,0 @@
-C:\Users\developer\Desktop\audio\player.jar C:\Users\developer\Desktop\audio\activation.wav

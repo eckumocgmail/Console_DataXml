@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Xml.ServiceDescriptor
+namespace Console_DataXml.ServiceDescriptor
 {
-    public class SoapEnvelope: Report
+    public class SoapEnvelope : DataReport
     {
         public SoapHeader SoapHeader { get; set; }
         public SoapBody SoapBody { get; set; }
@@ -18,7 +18,7 @@ namespace Xml.ServiceDescriptor
         public MGetprice MGetprice { get; set; }
         public SoapFault SoapFault { get; set; }
     }
-    
+
     public class SoapFault
     {
         public MTrans MTrans { get; set; }
@@ -41,5 +41,5 @@ namespace Xml.ServiceDescriptor
         public HyperText text { get; set; }
 
     }
-  
+
 }
